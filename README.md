@@ -68,6 +68,9 @@ High-Cap Capital Density: Although Technology has the highest volume of billiona
 
 Youth & Wealth: Billionaires under the age of 50 collectively hold $508.3 Billion, led by young tech and inherited wealth figures like Mark Mateschitz ($39.6B) and Clemente Del Vecchio ($4.7B).
 
+## CONCLUSION
+This project provided valuable hands-on experience in using SQL to solve business queries and analyze complex, real-world financial datasets. Through data filtering, aggregation, and subqueries, I was able to transform raw data into clear, actionable insights regarding global wealth concentration, industry distribution, and demographic trends. 
+
 
 ## REPOSITORY STRUCTURE
 ```billionaire-wealth-sql-investigation
