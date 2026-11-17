@@ -46,27 +46,16 @@ Aggregate functions
 Subqueries
 
 ## BUSINESS QUESTIONS ANSWERED
-
-What are the records of the top 20 richest billionaires?  
-
-Who are the five youngest billionaires in the dataset?  
-
-What is the overall average age and average net worth across all 200 billionaires?  
-
-Which five countries have the highest representation of billionaires?
-
-What is the combined total net worth of billionaires categorized by country?
-
-Which five industries feature the highest concentration of billionaires?
-
-Which countries boast at least five billionaires in the top 200 list?
-
-What is the total combined wealth held by billionaires under the age of 50?
-
-Which billionaires hold a net worth exceeding the global average net worth?
-
-Which industry commands the highest average net worth per individual?
-
+- Retrieve the 20 richest billionaires
+- Identify the five youngest billionaires
+- Calculate the average age and average net-worth
+- Identify the five most represented countries
+- Calculate the combined net-worth of billionaires from each country
+- Identify the five industries with highest number of billionaires
+- Find countries with at least five billionaires
+- Calculate the total wealth of billionaires younger than 50
+- Identify billionaires whose net-worth exceeds the overall average net-worth
+- Identify the industries with the highest average net-worth 
 ![](SQL_project_screenshot.png)
 
 ## KEY FINDINGS & INSIGHTS
