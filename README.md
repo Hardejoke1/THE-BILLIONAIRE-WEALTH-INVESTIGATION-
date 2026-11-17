@@ -85,7 +85,7 @@ Youth & Wealth: Billionaires under the age of 50 collectively hold $508.3 Billio
 ```billionaire-wealth-sql-investigation/
 ├── SQL_project_screenshot.png                   # Execution screenshot preview
 ├── Top 200 Richest Person in the World.csv      # Raw CSV dataset
-├── billionaire_investigation.sql                # Complete SQL script containing all my queries
+├── Results/                                     # Script for each queries
 └── README.md                                    # Project documentation
 ```
 
